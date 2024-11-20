@@ -19,5 +19,5 @@ You can view the published dashboard online here:
 [**Power BI Dashboard Link**]([https://app.powerbi.com/view?r=eyJrIjoiYjJmODc2ZmMtOWMzYS00MDljLWI4ODktMjk2MTc0NDU1ZTY0IiwidCI6IjM0ODk2NDE3LTkzMjItNDdkNi05ZDcwLWE2ZDRlZDBmMWVlNiIsImMiOjEwfQ%3D%3D])
 
 ## Preview
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](images/dashboard_screenshot.jpeg)
 
