@@ -16,7 +16,7 @@ This project showcases a Power BI dashboard analyzing past data and forecasted d
 
 ## View the Dashboard Online
 You can view the published dashboard online here:  
-[**Power BI Dashboard Link**]([https://app.powerbi.com/view?r=eyJrIjoiYjJmODc2ZmMtOWMzYS00MDljLWI4ODktMjk2MTc0NDU1ZTY0IiwidCI6IjM0ODk2NDE3LTkzMjItNDdkNi05ZDcwLWE2ZDRlZDBmMWVlNiIsImMiOjEwfQ%3D%3D])
+[**Power BI Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiYjJmODc2ZmMtOWMzYS00MDljLWI4ODktMjk2MTc0NDU1ZTY0IiwidCI6IjM0ODk2NDE3LTkzMjItNDdkNi05ZDcwLWE2ZDRlZDBmMWVlNiIsImMiOjEwfQ%3D%3D)
 
 ## Preview
 ![Dashboard Preview](dashboard_screenshot.jpeg)
